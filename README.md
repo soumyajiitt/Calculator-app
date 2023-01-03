@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: #
-- Live Site URL: [#)
+- Solution URL: [https://www.frontendmentor.io/solutions/calculator-app-9UEngcx8lD]
+- Live Site URL: [https://calculator-app-soumyajiitt.netlify.app/]
 
 ## My process
 
